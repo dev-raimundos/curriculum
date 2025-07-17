@@ -1,0 +1,25 @@
+.full-body {
+  display: flex;
+  margin-top: 2rem;
+  margin-right: 3rem;
+  margin-left: 3rem;
+
+  max-width: 25rem;
+}
+
+.section-body {
+
+}
+
+h2 {
+  color: black;
+}
+
+p {
+
+}
+
+
+@media (min-width: 730px) {
+
+}
