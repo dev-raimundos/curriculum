@@ -1,0 +1,47 @@
+.full-body {
+  margin-top: 3rem;
+
+  font-size: 0.9rem;
+}
+
+.work-container {
+  margin-bottom: 1.5rem;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.work-date {
+  width: 6rem;
+
+  display: flex;
+  align-self: start;
+}
+
+.work-title {
+  width: 13rem;
+}
+
+.work-subtitle {
+
+}
+
+.work-image {
+  margin-top: 1rem;
+
+  width: 12rem;
+  border: 2px solid #d7dde3;
+  border-radius: 10px;
+  box-shadow: 1px 1px 2px #d7dde3;
+}
+
+h2 {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: black;
+}
+
+h3 {
+  color: black;
+}
