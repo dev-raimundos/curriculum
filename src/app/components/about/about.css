@@ -1,10 +1,6 @@
 .full-body {
-  display: flex;
-  margin-top: 2rem;
-  margin-right: 3rem;
-  margin-left: 3rem;
-
-  max-width: 25rem;
+  margin-top: 3rem;
+  max-width: 23rem;  /* Garante o tamanho máximo */
 }
 
 .section-body {
@@ -13,10 +9,13 @@
 
 h2 {
   color: black;
+  margin-bottom: 0.3rem;
+
+  font-size: 1rem;
 }
 
 p {
-
+  font-size: 0.9rem;
 }
 
 
