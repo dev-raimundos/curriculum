@@ -4,10 +4,11 @@ import { NgOptimizedImage } from '@angular/common';
 import { Header } from './components/header/header';
 import { About } from './components/about/about';
 import { WorkExperience } from './components/work-experience/work-experience';
+import { Education } from './components/education/education';
 
 @Component({
   selector: 'app-root',
-  imports: [ RouterOutlet, NgOptimizedImage, Header, About, WorkExperience ],
+  imports: [ RouterOutlet, NgOptimizedImage, Header, About, WorkExperience, Education ],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
