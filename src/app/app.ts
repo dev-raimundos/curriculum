@@ -5,10 +5,11 @@ import { Header } from './components/header/header';
 import { About } from './components/about/about';
 import { WorkExperience } from './components/work-experience/work-experience';
 import { Education } from './components/education/education';
+import { Contact } from './components/contact/contact';
 
 @Component({
   selector: 'app-root',
-  imports: [ RouterOutlet, NgOptimizedImage, Header, About, WorkExperience, Education ],
+  imports: [ RouterOutlet, NgOptimizedImage, Header, About, WorkExperience, Education, Contact ],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
