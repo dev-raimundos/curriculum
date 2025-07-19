@@ -1,6 +1,7 @@
 .full-body {
   margin-top: 3rem;
-  max-width: 23rem;  /* Garante o tamanho máximo */
+  margin-right: 2rem;
+  margin-left: 2rem;
 }
 
 .section-body {

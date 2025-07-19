@@ -1,6 +1,8 @@
 .full-body {
   margin-top: 2.5rem;
   font-size: 0.9rem;
+  margin-right: 2rem;
+  margin-left: 2rem;
 }
 
 .education-container {
@@ -18,7 +20,7 @@
 }
 
 .title-container {
-  width: 13rem;
+  width: 12rem;
 }
 
 .education-title {
