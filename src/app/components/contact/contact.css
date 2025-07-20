@@ -36,3 +36,9 @@ a:hover {
   text-decoration: underline;
   color: black;
 }
+
+h2 {
+  color: black;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
