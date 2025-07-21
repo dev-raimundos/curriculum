@@ -1,24 +1,32 @@
 .full-body {
-  margin-top: 1.5rem;
+  margin-top: 2.5rem;
   font-size: 0.9rem;
 }
 
 .writing-container {
+  margin-bottom: 1.5rem;
   display: flex;
   flex-direction: row;
-  justify-content: start;
-  align-items: start
+  justify-content: center;
+  align-items: center;
 }
 
 .date {
-  width: 12rem;
-
+  width: 6rem;
   display: flex;
   align-self: start;
 }
 
-.title {
+.title-container {
+  width: 12rem;
+}
+
+.writing-title {
   color: black;
+}
+
+.subtitle {
+
 }
 
 h2 {
