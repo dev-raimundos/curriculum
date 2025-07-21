@@ -1,0 +1,43 @@
+.full-body {
+  margin-top: 1.5rem;
+  font-size: 0.9rem;
+}
+
+.writing-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start
+}
+
+.date {
+  width: 12rem;
+
+  display: flex;
+  align-self: start;
+}
+
+.title {
+  color: black;
+}
+
+h2 {
+  color: black;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+a,
+a:visited,
+a:focus,
+a:active {
+  all: unset;
+  text-decoration: none;
+  cursor: pointer;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
